@@ -4,6 +4,7 @@ body {
 
 section {
     display: inline-block;
+    /* background-color: #ccc; */
     width: 60%;
     margin: 10% 20%;
     
@@ -12,7 +13,6 @@ section {
         display: inline-block;
         width: 40%;
         float: left;
-
     }
     div {
         display: inline-block;
@@ -20,6 +20,7 @@ section {
         text-align: center;
         margin-left: 10%;
         margin-top: 60px;
+        /* margin-top: 10%; */
         float: left;
     }
         h1 {
